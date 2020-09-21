@@ -6,7 +6,6 @@ This repo introduces how to  use camera calibration and PnP to translate Pixel C
 
 ![](https://img.wangcong.net/UAVCoordinateSystemSolving.png)
 
-For related principles, please read this article:  https://wangcong.net/article/UAVCoordinateSystemSolving.html 
 
 ## Optional setting
 
