@@ -9,5 +9,5 @@ This repo introduces how to  use camera calibration and PnP to translate Pixel C
 
 ## Optional setting
 
-- If you feel that it is helpful to you, please give me a star. Thx!  :)
+- If you feel that's helpful to you, please give me a star. Thx!  :)
 - For related principles, please read this article:  https://wangcong.net/article/UAVCoordinateSystemSolving.html 
